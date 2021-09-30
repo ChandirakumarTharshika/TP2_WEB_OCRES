@@ -32,6 +32,12 @@ header .logo-search form  {
     width: 50%;
 }
 
+t{
+
+    display: flex;
+    flex-wrap: wrap;
+    
+}
 header .user {
     float: right;
 }
