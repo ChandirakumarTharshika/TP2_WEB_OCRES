@@ -30,7 +30,7 @@ A lire impérativement avant de commencer quoi que ce soit, ce sont les règles 
 
 6. Remplacer toutes les tailles de police en pixel par des unités relatives (em ou rem)
 
-7. Régler le viewport pour les mobiles
+-7. Régler le viewport pour les mobiles
 
 ```html
 <meta
